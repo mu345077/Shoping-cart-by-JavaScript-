@@ -1,0 +1,32 @@
+.caption{
+  width: 100%;
+  position: static;
+}
+.caption_left{
+    position: static;
+    width: 100%;
+    height: 100%;
+    padding: 2px;
+    vertical-align: top;
+    float: left;
+
+}
+h2 {
+  color: #6495ED;
+}
+h3{
+  color: #6495ED;
+}
+h4{
+  color: red;
+}
+textarea{
+  resize: none;
+  height: 100px;
+  width: 100px;
+}
+h4{
+  color: #6495ED;
+}
+
+</style>
